@@ -4,7 +4,7 @@
 
 ## Visualization of the Website
 
-![Form](./AnimationCardLanguage.gif)
+![Form](../AnimationCardLanguage.gif)
 
 ## Description
 
